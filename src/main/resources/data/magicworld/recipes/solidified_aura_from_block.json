@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "magic_world:solidified_aura_block"
+    }
+  ],
+  "result": {
+    "item": "magicworld:solidified_aura",
+    "count": 9
+  }
+}

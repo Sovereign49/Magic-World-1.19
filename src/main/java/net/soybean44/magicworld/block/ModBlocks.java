@@ -14,7 +14,7 @@ import net.soybean44.magicworld.item.ModItemGroup;
 
 public class ModBlocks {
     public static final Block SOLIDIFIED_AURA_BLOCK = registerBlock("solidified_aura_block",
-            new Block(FabricBlockSettings.of(Material.STONE).luminance(14).strength(2f)), ModItemGroup.MAGIC_WORLD);
+            new Block(FabricBlockSettings.of(Material.STONE).luminance(14).strength(0.5f)), ModItemGroup.MAGIC_WORLD);
 
     private static Block registerBlock(String name, Block block, ItemGroup tab) {
         registerBlockItem(name,block,tab);
