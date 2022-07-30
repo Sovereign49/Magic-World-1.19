@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "magic_world:solidified_aura_block"
+      "item": "magicworld:solidified_aura_block"
     }
   ],
   "result": {
