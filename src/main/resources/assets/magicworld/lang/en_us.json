@@ -1,3 +1,7 @@
 {
-  "item.magicworld.solidified_aura": "Solidified Aura"
+  "item.magicworld.solidified_aura": "Solidified Aura",
+
+  "block.magicworld.solidified_aura_block": "Solidified Aura Block",
+
+  "itemGroup.magicworld.mgworld": "Magic World Tab"
 }
